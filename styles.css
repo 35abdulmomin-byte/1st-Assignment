@@ -72,21 +72,21 @@ nav a{
 .hero-content h1 span{
     font-style:italic;
 }
-
 .hero-content p{
     font-size:18px;
     line-height:1.7;
     color:#ddd;
-    margin-bottom:45px;
 }
-.btn{
+.hero-btn{
     background:#2563eb;
     color:#fff;
     padding:12px 28px;
     text-decoration:none;
     border-radius:8px;
+    display: inline-block;
+    margin-top: 350px;
 }
-.btn:hover{
+.hero-btn:hover{
     background:#1d4ed8;
     transform:translateY(-3px);
 }
@@ -325,7 +325,7 @@ nav a{
     background:#1d4ed8;
 }
 .footer{
-    background:#569ab4;
+    background:#0c4259;
     padding:50px 80px;
 }
 
